@@ -2,7 +2,7 @@
 
 ## extract-ecg-wave v0.2
 
-- SQL DB에 ECG를 결과 파일 (.xml)이 적재되어있는 경우, waveform에 해당하는 데이터를 불러와 분석가능한 csv
+- SQL DB에 ECG를 결과 파일 (.xml)이 적재되어있는 경우, waveform에 해당하는 데이터를 불러와 분석가능한 csv로 변환
 
 1. 아래와 같이 waveform data를 csv로 추출  
 ![image](https://user-images.githubusercontent.com/48194852/146716854-4c8c6779-4e2b-47b9-a402-6a6cfc6afd28.png)  
