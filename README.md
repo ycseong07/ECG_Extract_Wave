@@ -1,6 +1,6 @@
-# ECG_Extract_Wave
+# extract-ecg-wave
 
-## ECG_Extract_Wave v0.2
+## extract-ecg-wave v0.2
 
 1. 아래와 같이 waveform data를 csv로 추출  
 ![image](https://user-images.githubusercontent.com/48194852/146716854-4c8c6779-4e2b-47b9-a402-6a6cfc6afd28.png)  
